@@ -1,0 +1,5 @@
+plugin.tx_srfeuserregister_pi1._LOCAL_LANG.de {
+	date_of_birth = Geburtsdatum (tt.mm.jjjj):
+	evalErrors_date = Bitte geben Sie ein g&uuml;ltiges Datum im Format tt.mm.jjjj ein!
+	evalErrors_date_informal = Bitte gib ein g&uuml;ltiges Datum im Format tt.mm.jjjj ein!
+}
