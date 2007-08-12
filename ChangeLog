@@ -1,3 +1,6 @@
+2007-08-10 Oliver Klee  <typo3-coding@oliverklee.de>
+	* [#684] Make germandates work with sr_feuser_register 2.5.6 and later
+
 2007-03-08 Oliver Klee  <typo3-coding@oliverklee.de>
 	* make setup.txt more readable
 
