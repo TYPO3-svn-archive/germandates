@@ -1,3 +1,6 @@
+2007-11-12 Oliver Klee  <typo3-coding@oliverklee.de>
+	* [#1291] Remove conflict with sr_feuser_register
+
 2007-08-10 Oliver Klee  <typo3-coding@oliverklee.de>
 	* Release of version 1.0.0
 	* [#684] Make germandates work with sr_feuser_register 2.5.6 and later
