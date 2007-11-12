@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext: "germandates"
 #
-# Auto generated 12-11-2007 18:23
+# Auto generated 12-11-2007 18:27
 #
 # Manual updates:
 # Only the data in the array - anything else is removed by next write.
@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 1,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'constraints' => array(
 		'depends' => array(
 			'sr_feuser_register' => '2.5.6-',
@@ -39,7 +39,7 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => 'a:7:{s:9:"ChangeLog";s:4:"d3a4";s:37:"class.ux_tx_srfeuserregister_data.php";s:4:"f22e";s:12:"ext_icon.gif";s:4:"f427";s:17:"ext_localconf.php";s:4:"a7ac";s:14:"ext_tables.php";s:4:"ea3f";s:16:"static/setup.txt";s:4:"471f";s:14:"doc/manual.sxw";s:4:"99cc";}',
+	'_md5_values_when_last_written' => 'a:7:{s:9:"ChangeLog";s:4:"4297";s:37:"class.ux_tx_srfeuserregister_data.php";s:4:"f22e";s:12:"ext_icon.gif";s:4:"f427";s:17:"ext_localconf.php";s:4:"a7ac";s:14:"ext_tables.php";s:4:"ea3f";s:16:"static/setup.txt";s:4:"471f";s:14:"doc/manual.sxw";s:4:"99cc";}',
 	'suggests' => array(
 	),
 );
