@@ -21,6 +21,7 @@
 *
 * This copyright notice MUST APPEAR in all copies of the script!
 ***************************************************************/
+
 /**
  * The 'germandates' extension.
  *
@@ -208,5 +209,4 @@ class ux_tx_srfeuserregister_data extends tx_srfeuserregister_data {
 if (defined('TYPO3_MODE') && $TYPO3_CONF_VARS[TYPO3_MODE]['XCLASS']['ext/germandates/class.ux_tx_srfeuserregister_data.php']) {
 	include_once($TYPO3_CONF_VARS[TYPO3_MODE]['XCLASS']['ext/germandates/class.ux_tx_srfeuserregister_data.php']);
 }
-
 ?>
